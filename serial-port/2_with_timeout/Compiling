@@ -1,0 +1,5 @@
+Compiling This Program:
+g++ -c -I /usr/include/boost main.cpp
+g++ -c -I /usr/include/boost TiemoutSerial.cpp
+g++ TimeoutSerial.o main.o -o program -lboost_system
+

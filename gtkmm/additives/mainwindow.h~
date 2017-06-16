@@ -19,4 +19,4 @@ protected:
   Gtk::Button m_button;
 };
 
-#endif // GTKMM_EXAMPLE_MAINWINDOW_H mas
+#endif // GTKMM_EXAMPLE_MAINWINDOW_H
