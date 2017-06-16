@@ -1,0 +1,4 @@
+To compile
+g++ -o main helloworld.cpp main.cpp `pkg-config --cflags 
+--libs gtkmm-3.0`
+
